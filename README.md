@@ -2,7 +2,7 @@
 I'm Osinachi.
 I am a developer that values good stories. I seek to improve the human condition through technology. I'm also building a community at Owerri Nigeria.
 
-I got into all these through the help of thousands of developers out there, most especially @sammychinedu2ky. I grateful to everyone.
+I got into all these through the help of thousands of developers out there, most especially [Samson Amaugo](https://github.com/sammychinedu2ky). I'm grateful to everyone.
 
 - 🔭 I’m currently working on being a mechanic (😅)
 - 🌱 I’m currently learning Docker, testing, Typescript
