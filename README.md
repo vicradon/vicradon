@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm Osinachi.
+I am a developer that values good stories. I seek to improve the human condition through technology. I'm also building a community at Owerri Nigeria.
 
-<!--
-**vicradon/vicradon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I got into all these through the help of thousands of developers out there, most especially @sammychinedu2ky. I grateful to everyone.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on being a mechanic (😅)
+- 🌱 I’m currently learning Docker, testing, Typescript
+- 👯 I’m looking to collaborate on getting money
+- 🤔 I’m looking for help with Nestjs
+- 💬 Ask me about Javascript, React
+- 📫 How to reach me: [vicradon](https://twitter.com/vicradon) on twitter
+- 😄 Pronouns: Him/They
+- ⚡ Fun fact: I get super excited about speaking
 -->
