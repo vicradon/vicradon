@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm Osinachi.
-I am a developer that values good stories. I seek to improve the human condition through technology. I'm also building a community at Owerri Nigeria.
+
+I'm a developer that values good stories. I seek to improve the human condition through technology. I'm also building a community at Owerri Nigeria.
 
 ### My blog
 I keep a regular blog on Hashnode. Check it out [here](https://vicradon.hashnode.dev).
