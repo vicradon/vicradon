@@ -8,6 +8,10 @@ I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 ## How did I get here?
 I got into coding through the help of thousands of developers out there, most especially [Samson Amaugo](https://github.com/sammychinedu2ky). I'm grateful to everyone.
 
