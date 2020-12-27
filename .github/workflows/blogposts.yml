@@ -13,3 +13,4 @@ jobs:
         with:
           feed-url: https://osi.codes/rss.xml
           readme-section: feed
+
