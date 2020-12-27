@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Osinachi</h1>
 <p align="center">I'm a web developer who values good stories. I seek to improve the human condition through tech. I contribute to building tech communities in Africa</p>
 
-### My blog
+## My blog
 I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
 
-### How did I get here?
+### Recent Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
+## How did I get here?
 I got into coding through the help of thousands of developers out there, most especially [Samson Amaugo](https://github.com/sammychinedu2ky). I'm grateful to everyone.
 
 <br>
