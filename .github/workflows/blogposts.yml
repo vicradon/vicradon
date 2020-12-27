@@ -16,7 +16,7 @@ jobs:
           feed_url: https://osi.codes/rss.xml
           count: 3
       - name: Commit file changes
-        run: |
+        run: \
             git config --global user.name 'vicradon'
             git config --global user.email 'osinachi.chukwujama@gmail.com'
             git add .
