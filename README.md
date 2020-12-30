@@ -9,11 +9,11 @@ I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
+* [Publish Articles in Zen Mode Using the Hashnode CLI](https:&#x2F;&#x2F;osi.codes&#x2F;publish-articles-in-zen-mode-using-the-hashnode-cli)
 * [2020: My Best and Worst Year Yet](https:&#x2F;&#x2F;osi.codes&#x2F;2020-my-best-and-worst-year-yet)
 * [What&#39;s the most important HTML tag?](https:&#x2F;&#x2F;osi.codes&#x2F;whats-the-most-important-html-tag)
 * [Enumerate in Python](https:&#x2F;&#x2F;osi.codes&#x2F;enumerate-in-python)
 * [Horizontal vs Vertical Scaling](https:&#x2F;&#x2F;osi.codes&#x2F;horizontal-vs-vertical-scaling)
-* [Shortcut for &#x60;python manage.py&#x60; in Django](https:&#x2F;&#x2F;osi.codes&#x2F;shortcut-for-python-managepy-in-django)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
