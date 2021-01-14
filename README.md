@@ -9,11 +9,11 @@ I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
+* [Dockerizing AdonisJS and Redis](https:&#x2F;&#x2F;osi.codes&#x2F;dockerizing-adonisjs-and-redis)
 * [Docker Run vs Exec](https:&#x2F;&#x2F;osi.codes&#x2F;docker-run-vs-exec)
 * [How to Copy To Clipboard in Terminal](https:&#x2F;&#x2F;osi.codes&#x2F;how-to-copy-to-clipboard-in-terminal)
 * [Publish Articles in Zen Mode Using the Hashnode CLI](https:&#x2F;&#x2F;osi.codes&#x2F;publish-articles-in-zen-mode-using-the-hashnode-cli)
 * [2020: My Best and Worst Year Yet](https:&#x2F;&#x2F;osi.codes&#x2F;2020-my-best-and-worst-year-yet)
-* [What&#39;s the most important HTML tag?](https:&#x2F;&#x2F;osi.codes&#x2F;whats-the-most-important-html-tag)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
