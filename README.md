@@ -9,11 +9,11 @@ I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
+* [Check for Empty Array in Javascript](https:&#x2F;&#x2F;osi.codes&#x2F;check-for-empty-array-in-javascript)
 * [Target React Child Components Within CSS Modules](https:&#x2F;&#x2F;osi.codes&#x2F;target-react-child-components-within-css-modules)
 * [How to use the SQL DELETE clause](https:&#x2F;&#x2F;osi.codes&#x2F;how-to-use-the-sql-delete-clause)
 * [Tutorial: Access Postgresql Database as Default User](https:&#x2F;&#x2F;osi.codes&#x2F;tutorial-access-postgresql-database-as-default-user)
 * [Setting up a New Ubuntu Docker Container for NodeJS](https:&#x2F;&#x2F;osi.codes&#x2F;setting-up-a-new-ubuntu-docker-container-for-nodejs-1)
-* [Dockerizing AdonisJS and Redis](https:&#x2F;&#x2F;osi.codes&#x2F;dockerizing-adonisjs-and-redis)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
