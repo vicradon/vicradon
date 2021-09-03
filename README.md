@@ -9,11 +9,11 @@ I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
+* [Run SQL Files in psql Shell](https:&#x2F;&#x2F;osi.codes&#x2F;run-sql-files-in-psql-shell)
 * [How To Add Application to App Tray in Ubuntu](https:&#x2F;&#x2F;osi.codes&#x2F;how-to-add-application-to-app-tray-in-ubuntu)
 * [How to Console.log in Laravel](https:&#x2F;&#x2F;osi.codes&#x2F;how-to-consolelog-in-laravel)
 * [Handling HTTP Errors using Javascript](https:&#x2F;&#x2F;osi.codes&#x2F;handling-http-errors-using-javascript)
 * [Check for Empty Array in Javascript](https:&#x2F;&#x2F;osi.codes&#x2F;check-for-empty-array-in-javascript)
-* [Target React Child Components Within CSS Modules](https:&#x2F;&#x2F;osi.codes&#x2F;target-react-child-components-within-css-modules)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
