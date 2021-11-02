@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://osi.codes/rss.xml
+          feed-url: https://blog.osinachi.me/rss.xml
           readme-section: feed
 
