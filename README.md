@@ -2,7 +2,7 @@
 <p align="center">I'm a web developer who values good stories. I seek to improve the human condition through tech. I contribute to building tech communities in Africa</p>
 
 ## My blog
-I keep a regular blog on Hashnode. Check it out [here](https://osi.codes).
+I keep a regular blog on Hashnode. Check it out [here](https://blog.osinachi.me).
 
 ### Recent Posts
 <!-- BLOGPOSTS:START -->
