@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Osinachi</h1>
-<p align="center">I'm a web developer who values good stories. I seek to improve the human condition through tech. I contribute to building tech communities in Africa</p>
+<h1 align="center">Hi 👋, my name is Osinachi</h1>
+<p align="center">I'm a frontend software engineer and technical writer. I have keen interests in robotics and machine learning. I seek to improve the human condition through tech. I contribute to the growth tech communities in Africa.</p>
 
 ## My blog
 I keep a regular blog on Hashnode. Check it out [here](https://blog.osinachi.me).
@@ -37,7 +37,7 @@ I got into coding through the help of thousands of developers out there, most es
 <a href="https://twitter.com/vicradon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vicradon" height="30" width="30" /></a>
 <a href="https://medium.com/@Vicradon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vicradon" height="30" width="30" /></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vicradon" alt="vivek-py" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vicradon" alt="vicradon" /> </p>
 
 
 This readme was inspired by [vivek-py's readme](https://github.comvivek-py)
