@@ -9,11 +9,11 @@ I keep a regular blog on Hashnode. Check it out [here](https://blog.osinachi.me)
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
+* [Dockerizing Your PostgreSQL Database: A Beginner&#39;s Guide](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;dockerizing-your-postgresql-database-a-beginners-guide)
 * [Earn Free Microsoft Certifications like a Boss](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;earn-free-microsoft-certifications-like-a-boss)
 * [Run SQL Files in psql Shell](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;run-sql-files-in-psql-shell)
 * [How To Add Application to App Tray in Ubuntu](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;how-to-add-application-to-app-tray-in-ubuntu)
 * [How to Console.log in Laravel](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;how-to-consolelog-in-laravel)
-* [Handling HTTP Errors using Javascript](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;handling-http-errors-using-javascript)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
