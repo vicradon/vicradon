@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, my name is Osinachi</h1>
-<p align="center">I'm a frontend software engineer and technical writer. I have keen interests in robotics and machine learning. I seek to improve the human condition through tech. I contribute to the growth of tech communities in Africa.</p>
+<p align="center">I'm a frontend software engineer and technical writer. I have keen interests in robotics and machine learning. I seek to improve the human condition through technology. I contribute to the growth of tech communities in Africa.</p>
 
-<p align="center">I'm currently learning Rust 🦀 and have built the following so far:</p>
-1. [Minigrep](https://github.com/vicradon/minigrep)
+## What I'm Currently Learning
+<p>I'm currently learning Rust 🦀 and have built the following so far:</p>
+
+1. <a href=https://github.com/vicradon/minigrep>Minigrep</a>: A demo grep tool that finds instances of a text in a file
 
 ## My blog
-I keep a regular blog on Hashnode. Check it out [here](https://blog.osinachi.me).
+I write blog posts based on my learnings and experiences as a developer on Hashnode. Check it out [here](https://blog.osinachi.me).
 
 ### Recent Posts
 <!-- BLOGPOSTS:START -->
