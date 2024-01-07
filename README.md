@@ -14,11 +14,11 @@ I write blog posts based on my learnings and experiences as a developer on Hashn
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
-* [Simple Network Configuration with Switches and Routers](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;simple-network-configuration-with-switches-and-routers)
-* [Dockerizing Your PostgreSQL Database: A Beginner&#39;s Guide](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;dockerizing-your-postgresql-database-a-beginners-guide)
-* [Webpage Indexing with NetworkX Library and Beautiful Soup](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;webpage-indexing-with-networkx-library-and-beautiful-soup)
-* [Earn Free Microsoft Certifications like a Boss](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;earn-free-microsoft-certifications-like-a-boss)
-* [Run SQL Files in psql Shell](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;run-sql-files-in-psql-shell)
+* [Simple Network Configuration with Switches and Routers](https:&#x2F;&#x2F;vicradon.hashnode.dev&#x2F;simple-network-configuration-with-switches-and-routers)
+* [Dockerizing Your PostgreSQL Database: A Beginner&#39;s Guide](https:&#x2F;&#x2F;vicradon.hashnode.dev&#x2F;dockerizing-your-postgresql-database-a-beginners-guide)
+* [Webpage Indexing with NetworkX Library and Beautiful Soup](https:&#x2F;&#x2F;vicradon.hashnode.dev&#x2F;webpage-indexing-with-networkx-library-and-beautiful-soup)
+* [Earn Free Microsoft Certifications like a Boss](https:&#x2F;&#x2F;vicradon.hashnode.dev&#x2F;earn-free-microsoft-certifications-like-a-boss)
+* [Run SQL Files in psql Shell](https:&#x2F;&#x2F;vicradon.hashnode.dev&#x2F;run-sql-files-in-psql-shell)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
