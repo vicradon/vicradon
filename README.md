@@ -14,11 +14,11 @@ I write blog posts based on my learnings and experiences as a developer on Hashn
 <!-- BLOGPOSTS:END -->
 
 <!--START_SECTION:feed-->
+* [Microservices Architecture | Ultimate Guide &amp; Tutorial](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;microservices-architecture-ultimate-guide-tutorial)
 * [How to Configure Router-level DHCP in Cisco Packet Tracer](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;how-to-configure-router-level-dhcp-in-cisco-packet-tracer)
 * [Simple Network Configuration with Switches and Routers](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;simple-network-configuration-with-switches-and-routers)
 * [Dockerizing Your PostgreSQL Database: A Beginner&#39;s Guide](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;dockerizing-your-postgresql-database-a-beginners-guide)
 * [Webpage Indexing with NetworkX Library and Beautiful Soup](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;webpage-indexing-with-networkx-library-and-beautiful-soup)
-* [Earn Free Microsoft Certifications like a Boss](https:&#x2F;&#x2F;blog.osinachi.me&#x2F;earn-free-microsoft-certifications-like-a-boss)
 <!--END_SECTION:feed-->
 
 ## How did I get here?
