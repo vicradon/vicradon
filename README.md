@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, my name is Osinachi</h1>
-<p align="center">I'm a frontend software engineer and technical writer. I have keen interests in robotics and machine learning. I seek to improve the human condition through technology. I contribute to the growth of tech communities in Africa.</p>
+<p align="center">I'm a software engineer and technical writer. My primary languages are Python and Golang. I am well-versed in the art of deployment and Site Reliability Engineering using tools like Github Actions, Prometheus, and Grafana. I do Robotics/ML on the side, as I have an academic background in this area.</p>
 
-## What I'm Currently Learning
-<p>I'm currently learning Rust 🦀 and have built the following so far:</p>
 
-1. <a href=https://github.com/vicradon/minigrep>Minigrep</a>: A demo grep tool that finds instances of a text in a file
-
-## My blog
-I write blog posts based on my learnings and experiences as a developer on Hashnode. Check it out [here](https://blog.osinachi.me).
-
-### Recent Posts
+## Recent Blog Posts
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
@@ -22,28 +15,19 @@ I write blog posts based on my learnings and experiences as a developer on Hashn
 <!--END_SECTION:feed-->
 
 ## How did I get here?
-I got into coding through the help of thousands of developers out there, most especially [Samson Amaugo](https://github.com/sammychinedu2ky). I'm grateful to everyone.
+I got into coding with the help of thousands of developers out there, most especially [Samson Amaugo](https://github.com/sammychinedu2ky). I'm grateful to everyone.
 
 <br>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang mascot"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </p> 
 
 <br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicradon&layout=compact&hide=html" alt="Osinachi" /></p>
-<br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicradon&show_icons=false" alt="vicradon" /></p>
-<br>
-<p align="center">
-<a href="https://dev.to/vicradon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vivekpy" height="30" width="30" /></a>
-<a href="https://twitter.com/vicradon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vicradon" height="30" width="30" /></a>
-<a href="https://medium.com/@Vicradon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vicradon" height="30" width="30" /></a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vicradon" alt="vicradon" /> </p>
-
-
-This readme was inspired by [vivek-py's readme](https://github.comvivek-py)
-
