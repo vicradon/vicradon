@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Osinachi</h1>
-<p align="center">I'm a software engineer and technical writer. My primary languages are Python and Golang. I am well-versed in the art of deployment and Site Reliability Engineering using tools like Github Actions, Prometheus, and Grafana. I do Robotics/ML on the side, as I have an academic background in this area.</p>
+<p align="center">I'm a software engineer and technical writer. My primary languages are Python and Golang. </p>
 
 
 ## Recent Blog Posts
